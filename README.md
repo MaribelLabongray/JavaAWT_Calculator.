@@ -1,1 +1,1 @@
-# JavaAWT_Calculator.
+# JavaAWT_Calculator
